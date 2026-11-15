@@ -1,0 +1,70 @@
+﻿
+========== RUN 1 ==========
+Station-3 scanned 25 scripts on Thread-2
+Station-4 scanned 25 scripts on Thread-3
+Station-2 scanned 25 scripts on Thread-1
+Station-1 scanned 25 scripts on Thread-0
+All stations finished; total scripts = 100
+
+========== RUN 2 ==========
+Station-1 scanned 25 scripts on Thread-0
+Station-2 scanned 25 scripts on Thread-1
+Station-3 scanned 25 scripts on Thread-2
+Station-4 scanned 25 scripts on Thread-3
+All stations finished; total scripts = 100
+
+========== RUN 3 ==========
+Station-2 scanned 25 scripts on Thread-1
+Station-4 scanned 25 scripts on Thread-3
+Station-3 scanned 25 scripts on Thread-2
+Station-1 scanned 25 scripts on Thread-0
+All stations finished; total scripts = 100
+
+========== RUN 4 ==========
+Station-2 scanned 25 scripts on Thread-1
+Station-3 scanned 25 scripts on Thread-2
+Station-1 scanned 25 scripts on Thread-0
+Station-4 scanned 25 scripts on Thread-3
+All stations finished; total scripts = 100
+
+========== RUN 5 ==========
+Station-3 scanned 25 scripts on Thread-2
+Station-1 scanned 25 scripts on Thread-0
+Station-2 scanned 25 scripts on Thread-1
+Station-4 scanned 25 scripts on Thread-3
+All stations finished; total scripts = 100
+
+========== RUN 6 ==========
+Station-3 scanned 25 scripts on Thread-2
+Station-1 scanned 25 scripts on Thread-0
+Station-4 scanned 25 scripts on Thread-3
+Station-2 scanned 25 scripts on Thread-1
+All stations finished; total scripts = 100
+
+========== RUN 7 ==========
+Station-4 scanned 25 scripts on Thread-3
+Station-1 scanned 25 scripts on Thread-0
+Station-3 scanned 25 scripts on Thread-2
+Station-2 scanned 25 scripts on Thread-1
+All stations finished; total scripts = 100
+
+========== RUN 8 ==========
+Station-3 scanned 25 scripts on Thread-2
+Station-1 scanned 25 scripts on Thread-0
+Station-2 scanned 25 scripts on Thread-1
+Station-4 scanned 25 scripts on Thread-3
+All stations finished; total scripts = 100
+
+========== RUN 9 ==========
+Station-3 scanned 25 scripts on Thread-2
+Station-4 scanned 25 scripts on Thread-3
+Station-2 scanned 25 scripts on Thread-1
+Station-1 scanned 25 scripts on Thread-0
+All stations finished; total scripts = 100
+
+========== RUN 10 ==========
+Station-2 scanned 25 scripts on Thread-1
+Station-4 scanned 25 scripts on Thread-3
+Station-1 scanned 25 scripts on Thread-0
+Station-3 scanned 25 scripts on Thread-2
+All stations finished; total scripts = 100
